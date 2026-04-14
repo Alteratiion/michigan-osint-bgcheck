@@ -1,0 +1,6 @@
+rich
+selenium
+undetected-chromedriver
+beautifulsoup4
+pandas
+openpyxl
